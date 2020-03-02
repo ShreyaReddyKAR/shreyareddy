@@ -1371,6 +1371,7 @@
         <members>AuthorizationFormConsent</members>
         <members>AuthorizationFormDataUse</members>
         <members>AuthorizationFormText</members>
+        <members>AutoTest__c</members>
         <members>Bot_Command__c</members>
         <members>Broker__c</members>
         <members>Campaign</members>
