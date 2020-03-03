@@ -54,6 +54,7 @@
         <members>DreamHouseSampleData</members>
         <members>HeatMap</members>
         <members>HeatMapMock</members>
+        <members>UpdateAccount</members>
         <name>ApexPage</name>
     </types>
     <types>
