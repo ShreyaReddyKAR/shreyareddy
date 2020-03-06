@@ -168,6 +168,7 @@
         <members>Account.AnnualRevenue</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
+        <members>Account.CountAcc__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
