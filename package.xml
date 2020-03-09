@@ -1358,6 +1358,7 @@
         <members>WorkTypeGroup.OwnerId</members>
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
+        <members>book__c.price__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -1489,6 +1490,7 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
+        <members>book__c</members>
         <name>CustomObject</name>
     </types>
     <types>
