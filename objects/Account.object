@@ -317,6 +317,14 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>DateAcc__c</fullName>
+        <externalId>false</externalId>
+        <label>DateAcc</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
