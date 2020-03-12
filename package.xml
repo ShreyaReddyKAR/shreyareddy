@@ -33,11 +33,13 @@
         <members>HandlerSOQL</members>
         <members>HandlerTopOpportunities</members>
         <members>HandlerTravelApproval</members>
+        <members>HelloWorldTestClass</members>
         <members>HttpFormBuilder</members>
         <members>JWT</members>
         <members>JWTBearerFlow</members>
         <members>LIFXController</members>
         <members>LIFXControllerTest</members>
+        <members>MyHelloWorld</members>
         <members>PostPriceChangeToSlack</members>
         <members>PostPriceChangeToSlackTest</members>
         <members>PropertyController</members>
@@ -57,6 +59,7 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>HelloWorldTrigger</members>
         <members>PushNotificationTrigger</members>
         <members>RejectDuplicateFavorite</members>
         <name>ApexTrigger</name>
@@ -1586,6 +1589,7 @@
         <members>AuthorizationFormConsent-Authorization Form Consent Layout</members>
         <members>AuthorizationFormDataUse-Authorization Form Data Use Layout</members>
         <members>AuthorizationFormText-Authorization Form Text Layout</members>
+        <members>AutoTest__c-AutoTest Layout</members>
         <members>Bot_Command__c-Bot Action Layout</members>
         <members>Broker__c-Broker Layout</members>
         <members>Campaign-Campaign Layout</members>
@@ -1671,6 +1675,7 @@
         <members>WorkType-Work Type Layout</members>
         <members>WorkTypeGroup-Work Type Group Layout</members>
         <members>WorkTypeGroupMember-Work Type Group Member Layout</members>
+        <members>book__c-book Layout</members>
         <name>Layout</name>
     </types>
     <types>

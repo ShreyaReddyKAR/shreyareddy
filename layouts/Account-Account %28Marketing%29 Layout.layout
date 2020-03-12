@@ -29,7 +29,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>CountAcc__c</field>
+                <field>DateAcc__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>AccCount__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
