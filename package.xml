@@ -162,6 +162,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.AccCount__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
