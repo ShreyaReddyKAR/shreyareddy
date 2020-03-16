@@ -1211,6 +1211,7 @@
         <members>RevenueElement.RevenueEndDate</members>
         <members>RevenueElement.RevenueSourceId</members>
         <members>RevenueElement.RevenueStartDate</members>
+        <members>SF1__c.TestSF1__c</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
         <members>Scorecard.OwnerId</members>
@@ -1473,6 +1474,7 @@
         <members>ResourceAbsence</members>
         <members>ResourcePreference</members>
         <members>RevenueElement</members>
+        <members>SF1__c</members>
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
         <members>ScorecardMetric</members>
@@ -1660,6 +1662,7 @@
         <members>RefundLinePayment-Refund Line Payment Layout</members>
         <members>ResourceAbsence-Resource Absence Layout</members>
         <members>ResourcePreference-Resource Preference Layout</members>
+        <members>SF1__c-SF1 Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
