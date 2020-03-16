@@ -33,11 +33,13 @@
         <members>HandlerSOQL</members>
         <members>HandlerTopOpportunities</members>
         <members>HandlerTravelApproval</members>
+        <members>HelloWorldTestClass</members>
         <members>HttpFormBuilder</members>
         <members>JWT</members>
         <members>JWTBearerFlow</members>
         <members>LIFXController</members>
         <members>LIFXControllerTest</members>
+        <members>MyHelloWorld</members>
         <members>PostPriceChangeToSlack</members>
         <members>PostPriceChangeToSlackTest</members>
         <members>PropertyController</members>
@@ -58,6 +60,7 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>HelloWorldTrigger</members>
         <members>PushNotificationTrigger</members>
         <members>RejectDuplicateFavorite</members>
         <name>ApexTrigger</name>
@@ -357,6 +360,9 @@
         <members>Case.AccountId</members>
         <members>Case.AssetId</members>
         <members>Case.BusinessHoursId</members>
+        <members>Case.CaseDate__c</members>
+        <members>Case.Case_Grade__c</members>
+        <members>Case.Caseinfo__c</members>
         <members>Case.ClosedDate</members>
         <members>Case.Comments</members>
         <members>Case.ContactEmail</members>
@@ -1359,6 +1365,7 @@
         <members>WorkTypeGroup.OwnerId</members>
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
+        <members>book__c.price__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -1490,6 +1497,8 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
+        <members>book__c</members>
+        <members>company__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1670,6 +1679,8 @@
         <members>WorkType-Work Type Layout</members>
         <members>WorkTypeGroup-Work Type Group Layout</members>
         <members>WorkTypeGroupMember-Work Type Group Member Layout</members>
+        <members>book__c-book Layout</members>
+        <members>company__c-company Layout</members>
         <name>Layout</name>
     </types>
     <types>
