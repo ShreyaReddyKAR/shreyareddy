@@ -54,6 +54,7 @@
     </types>
     <types>
         <members>DreamHouseSampleData</members>
+        <members>Greetings</members>
         <members>HeatMap</members>
         <members>HeatMapMock</members>
         <name>ApexPage</name>
@@ -178,6 +179,7 @@
         <members>Account.Fax</members>
         <members>Account.Industry</members>
         <members>Account.Jigsaw</members>
+        <members>Account.March18Demo__c</members>
         <members>Account.NaicsCode</members>
         <members>Account.NaicsDesc</members>
         <members>Account.Name</members>
