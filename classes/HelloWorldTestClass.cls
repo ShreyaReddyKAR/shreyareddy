@@ -10,7 +10,7 @@ private class HelloWorldTestClass {
  
  Test.stopTest();
  
- // Retrieve the new book
+ // Retrieve the new book once after creation.
  b = [SELECT Price__c FROM Book__c WHERE Id =:b.Id];
  System.debug('Price after trigger fired: ' + b.Price__c);
  
