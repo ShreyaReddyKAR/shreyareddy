@@ -1798,6 +1798,10 @@
         <name>ManagedContentType</name>
     </types>
     <types>
+        <members>Permission_set_Test</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
@@ -2150,6 +2154,11 @@
         <members>Solution</members>
         <members>Task</members>
         <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>en_US</members>
+        <members>it</members>
+        <name>Translations</name>
     </types>
     <types>
         <members>Account.Billing</members>
