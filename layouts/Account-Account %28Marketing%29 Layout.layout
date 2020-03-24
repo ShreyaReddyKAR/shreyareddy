@@ -35,6 +35,10 @@
                 <behavior>Edit</behavior>
                 <field>March18Demo__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>March_24__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

@@ -345,6 +345,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>March_24__c</fullName>
+        <description>Demo</description>
+        <externalId>false</externalId>
+        <label>March 24</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NaicsCode</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>

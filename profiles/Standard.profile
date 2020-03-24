@@ -240,6 +240,10 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>MyHelloWorld</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>PostPriceChangeToSlack</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -348,6 +352,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.March18Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.March_24__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
