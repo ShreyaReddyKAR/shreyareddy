@@ -1,4 +1,4 @@
-//test for March 30th
+//demo for March 30th
 
 public class MyHelloWorld {
  public static void applyDiscount(Book__c[] books) {
