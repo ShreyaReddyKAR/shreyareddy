@@ -1366,6 +1366,7 @@
         <members>WorkTypeGroup.OwnerId</members>
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
+        <members>book__c.Track__c</members>
         <members>book__c.price__c</members>
         <name>CustomField</name>
     </types>
