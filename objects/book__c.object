@@ -154,6 +154,13 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Track__c</fullName>
+        <externalId>false</externalId>
+        <label>Track</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>price__c</fullName>
         <externalId>false</externalId>
         <label>price</label>
