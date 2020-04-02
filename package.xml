@@ -54,6 +54,7 @@
     </types>
     <types>
         <members>DreamHouseSampleData</members>
+        <members>GeneCloud</members>
         <members>Greetings</members>
         <members>HeatMap</members>
         <members>HeatMapMock</members>
