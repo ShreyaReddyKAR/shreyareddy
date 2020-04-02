@@ -1742,7 +1742,6 @@
         <members>DigitalWallet.DigitalWallet</members>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <members>Favorite__c.All</members>
-        <members>Idea.Ideas_Last_7_Days</members>
         <members>Invoice.mine</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
@@ -1875,10 +1874,6 @@
         <members>Task.UpdateStatus</members>
         <members>Task.UpdateStatus_0</members>
         <name>QuickAction</name>
-    </types>
-    <types>
-        <members>Idea.InternalIdeasIdeaRecordType</members>
-        <name>RecordType</name>
     </types>
     <types>
         <members>ApexDevNet</members>
@@ -2080,52 +2075,6 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <name>SharingRules</name>
-    </types>
-    <types>
-        <members>AccountContactRole</members>
-        <members>AccountOwnership</members>
-        <members>AccountRating</members>
-        <members>AccountType</members>
-        <members>AssetStatus</members>
-        <members>CampaignMemberStatus</members>
-        <members>CampaignStatus</members>
-        <members>CampaignType</members>
-        <members>CaseContactRole</members>
-        <members>CaseOrigin</members>
-        <members>CasePriority</members>
-        <members>CaseReason</members>
-        <members>CaseStatus</members>
-        <members>CaseType</members>
-        <members>ContactRole</members>
-        <members>ContractContactRole</members>
-        <members>ContractStatus</members>
-        <members>EventSubject</members>
-        <members>EventType</members>
-        <members>FiscalYearPeriodName</members>
-        <members>FiscalYearPeriodPrefix</members>
-        <members>FiscalYearQuarterName</members>
-        <members>FiscalYearQuarterPrefix</members>
-        <members>IdeaMultiCategory</members>
-        <members>IdeaStatus</members>
-        <members>Industry</members>
-        <members>LeadSource</members>
-        <members>LeadStatus</members>
-        <members>OpportunityCompetitor</members>
-        <members>OpportunityStage</members>
-        <members>OpportunityType</members>
-        <members>OrderStatus</members>
-        <members>OrderType</members>
-        <members>PartnerRole</members>
-        <members>Product2Family</members>
-        <members>QuickTextCategory</members>
-        <members>QuickTextChannel</members>
-        <members>Salutation</members>
-        <members>SolutionStatus</members>
-        <members>TaskPriority</members>
-        <members>TaskStatus</members>
-        <members>TaskSubject</members>
-        <members>TaskType</members>
-        <name>StandardValueSet</name>
     </types>
     <types>
         <members>countup7</members>

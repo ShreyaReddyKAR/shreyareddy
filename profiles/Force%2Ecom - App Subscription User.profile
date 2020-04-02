@@ -2963,11 +2963,6 @@
         <apexPage>HeatMapMock</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Bot_Command__c</tab>
         <visibility>DefaultOn</visibility>
