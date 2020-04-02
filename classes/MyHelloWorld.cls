@@ -1,4 +1,4 @@
-//demo for March 30th
+//class to calculate price of book to VMware
 
 public class MyHelloWorld {
  public static void applyDiscount(Book__c[] books) {
