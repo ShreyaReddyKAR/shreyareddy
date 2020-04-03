@@ -1,9 +1,9 @@
-//class to calculate price of book to VMware
+//class to calculate price of a book demo
 
 public class MyHelloWorld {
- public static void applyDiscount(Book__c[] books) {
-   for (Book__c b :books){
-     b.Price__c *= 0.9;
+public static void applyDiscount(Book__c[] books) {
+ for (Book__c b :books){
+     b.Price__c *= 1.0;
    }
  }
 }
