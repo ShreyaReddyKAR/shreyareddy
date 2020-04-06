@@ -678,6 +678,7 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>DataObj__c.ObjMail__c</members>
         <members>DataUseLegalBasis.Description</members>
         <members>DataUseLegalBasis.Name</members>
         <members>DataUseLegalBasis.Source</members>
@@ -1625,6 +1626,7 @@
         <members>CreditMemo-Credit Memo Layout</members>
         <members>CreditMemoLine-Credit Memo Line Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
+        <members>DataObj__c-DataObj Layout</members>
         <members>DataUseLegalBasis-Data Use Legal Basis Layout</members>
         <members>DataUsePurpose-Data Use Purpose Layout</members>
         <members>DigitalWallet-Digital Wallet Layout</members>
