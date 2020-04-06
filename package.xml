@@ -58,6 +58,7 @@
         <members>Greetings</members>
         <members>HeatMap</members>
         <members>HeatMapMock</members>
+        <members>StandardBank</members>
         <name>ApexPage</name>
     </types>
     <types>
