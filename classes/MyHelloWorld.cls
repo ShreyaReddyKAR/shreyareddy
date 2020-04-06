@@ -1,4 +1,4 @@
-//class to calculate price of a book demo-standard bank April6th
+//class to calculate price of a book demo-standard bank
 
 public class MyHelloWorld {
 public static void applyDiscount(Book__c[] books) {
