@@ -53,6 +53,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>April15</members>
         <members>DreamHouseSampleData</members>
         <members>HeatMap</members>
         <members>HeatMapMock</members>
