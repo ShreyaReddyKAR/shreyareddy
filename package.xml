@@ -62,6 +62,7 @@
         <members>Greetings</members>
         <members>HeatMap</members>
         <members>HeatMapMock</members>
+        <members>May12th</members>
         <members>StandardBank</members>
         <name>ApexPage</name>
     </types>
