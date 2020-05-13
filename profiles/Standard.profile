@@ -1435,6 +1435,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DataObj__c.May13th__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>DataObj__c.ObjMail__c</field>
         <readable>true</readable>
     </fieldPermissions>
