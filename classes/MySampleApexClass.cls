@@ -1,11 +1,11 @@
-//adding comment on May21th 
+//adding comment on May26th 
 public class MySampleApexClass {       
-   public static Integer x = 9;  
+   public static Integer x = 10;  
    public static String y = ''; 
    
    public static Integer getCalculatedValue () {
    // do some calculation
-      x = x+2;
+      x = x+8;
       return x;
       }
       }
