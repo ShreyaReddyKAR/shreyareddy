@@ -696,6 +696,7 @@
         <members>DataUsePurpose.LegalBasisId</members>
         <members>DataUsePurpose.Name</members>
         <members>DemoObj__c.CheckObj__c</members>
+        <members>DemoObj__c.Check__c</members>
         <members>DemoObj__c.NumbOfFields__c</members>
         <members>DigitalWallet.AccountId</members>
         <members>DigitalWallet.Comments</members>
@@ -1428,6 +1429,7 @@
         <members>DandBCompany</members>
         <members>DataUseLegalBasis</members>
         <members>DataUsePurpose</members>
+        <members>DemoObj__c</members>
         <members>DigitalWallet</members>
         <members>Dreamhouse_Settings__c</members>
         <members>DuplicateRecordItem</members>
