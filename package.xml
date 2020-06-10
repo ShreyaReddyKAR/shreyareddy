@@ -697,6 +697,7 @@
         <members>DataUsePurpose.Name</members>
         <members>DemoObj__c.CheckObj__c</members>
         <members>DemoObj__c.Check__c</members>
+        <members>DemoObj__c.Jun1st__c</members>
         <members>DemoObj__c.NumbOfFields__c</members>
         <members>DigitalWallet.AccountId</members>
         <members>DigitalWallet.Comments</members>
