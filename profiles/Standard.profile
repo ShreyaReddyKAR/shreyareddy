@@ -1435,6 +1435,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DataObj__c.CalcPercent__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>DataObj__c.May13th__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1481,6 +1486,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>DemoObj__c.Check__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>DemoObj__c.NumbOfFields__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

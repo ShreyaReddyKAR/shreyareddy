@@ -685,6 +685,7 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>DataObj__c.CalcPercent__c</members>
         <members>DataObj__c.Jun9th__c</members>
         <members>DataObj__c.ObjMail__c</members>
         <members>DataUseLegalBasis.Description</members>
@@ -694,6 +695,7 @@
         <members>DataUsePurpose.Description</members>
         <members>DataUsePurpose.LegalBasisId</members>
         <members>DataUsePurpose.Name</members>
+        <members>DemoObj__c.NumbOfFields__c</members>
         <members>DigitalWallet.AccountId</members>
         <members>DigitalWallet.Comments</members>
         <members>DigitalWallet.CompanyName</members>
@@ -1637,6 +1639,7 @@
         <members>DataObj__c-DataObj Layout</members>
         <members>DataUseLegalBasis-Data Use Legal Basis Layout</members>
         <members>DataUsePurpose-Data Use Purpose Layout</members>
+        <members>DemoObj__c-DemoObj Layout</members>
         <members>DigitalWallet-Digital Wallet Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
