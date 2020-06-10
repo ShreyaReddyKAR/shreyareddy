@@ -1835,6 +1835,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>ObjectForDemo__c.Contact__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>ObjectForDemo__c.Field1__c</field>
         <readable>true</readable>
     </fieldPermissions>
