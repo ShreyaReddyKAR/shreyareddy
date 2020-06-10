@@ -910,6 +910,7 @@
         <members>MessagingSession.PreviewDetails</members>
         <members>MessagingSession.StartTime</members>
         <members>MessagingSession.Status</members>
+        <members>ObjectForDemo__c.Field1__c</members>
         <members>OperatingHours.Description</members>
         <members>OperatingHours.Name</members>
         <members>OperatingHours.TimeZone</members>
@@ -1459,6 +1460,7 @@
         <members>Mar30th__c</members>
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
+        <members>ObjectForDemo__c</members>
         <members>OperatingHours</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
@@ -1661,6 +1663,7 @@
         <members>Macro-Macro Layout</members>
         <members>Mar27__c-Mar27 Layout</members>
         <members>Mar30th__c-Mar30th Layout</members>
+        <members>ObjectForDemo__c-ObjectForDemo Layout</members>
         <members>OperatingHours-Operating Hours Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>

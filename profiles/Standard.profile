@@ -1835,6 +1835,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>ObjectForDemo__c.Field1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Opportunity.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2704,6 +2709,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Mar30th__c-Mar30th Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ObjectForDemo__c-ObjectForDemo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>OperatingHours-Operating Hours Layout</layout>
