@@ -1485,6 +1485,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DemoObj__c.CheckObj__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>DemoObj__c.Check__c</field>
         <readable>true</readable>
     </fieldPermissions>
