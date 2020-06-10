@@ -5,7 +5,7 @@ public class MySampleApexClass {
    
    public static Integer getCalculatedValue () {
    // do some calculation
-      x = x+12;
+      x = x+10;
       return x;
       }
       }
