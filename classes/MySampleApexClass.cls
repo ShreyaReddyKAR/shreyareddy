@@ -1,6 +1,6 @@
 //adding comment on June 16th
 public class MySampleApexClass {       
-   public static Integer x = 11;  
+   public static Integer x = 10;  
    public static String y = ''; 
    
    public static Integer getCalculatedValue () {
