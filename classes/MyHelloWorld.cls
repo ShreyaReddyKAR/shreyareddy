@@ -1,9 +1,9 @@
-//class to calculate price of a book demo-standard bank April6th
+//class to calculate price of a book demo-April7th
 
 public class MyHelloWorld {
 public static void applyDiscount(Book__c[] books) {
  for (Book__c b :books){
-     b.Price__c *= 1.0;
+     b.Price__c *= 0.9;
    }
  }
 }
