@@ -768,6 +768,7 @@
         <members>Event.WhoId</members>
         <members>Favorite__c.Property__c</members>
         <members>Favorite__c.User__c</members>
+        <members>Fruit__c.Types__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>Image.AlternateText</members>

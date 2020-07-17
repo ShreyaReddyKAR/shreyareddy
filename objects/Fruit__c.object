@@ -153,6 +153,35 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
+    <fields>
+        <fullName>Types__c</fullName>
+        <externalId>false</externalId>
+        <label>Types</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Mango</fullName>
+                    <default>true</default>
+                    <label>Mango</label>
+                </value>
+                <value>
+                    <fullName>Apple</fullName>
+                    <default>false</default>
+                    <label>Apple</label>
+                </value>
+                <value>
+                    <fullName>Grapes</fullName>
+                    <default>false</default>
+                    <label>Grapes</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <label>Fruit</label>
     <listViews>
         <fullName>All</fullName>
