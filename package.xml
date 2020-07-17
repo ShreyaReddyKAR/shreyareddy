@@ -2104,6 +2104,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>AccountType</members>
+        <name>StandardValueSet</name>
+    </types>
+    <types>
         <members>countup7</members>
         <members>heatmap</members>
         <members>heatmapmock</members>
