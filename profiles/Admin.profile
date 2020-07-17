@@ -1450,6 +1450,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DataObj__c.Picklist_Test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>DataObj__c.field2__c</field>
         <readable>true</readable>
     </fieldPermissions>
