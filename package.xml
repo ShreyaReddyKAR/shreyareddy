@@ -1446,6 +1446,7 @@
         <members>ExternalEventMapping</members>
         <members>Favorite__c</members>
         <members>FeedItem</members>
+        <members>Fruit__c</members>
         <members>Idea</members>
         <members>Image</members>
         <members>Individual</members>
@@ -1537,6 +1538,7 @@
         <members>Broker__c</members>
         <members>Command_Center</members>
         <members>Einstein_Vision</members>
+        <members>Fruit__c</members>
         <members>Heat_Map</members>
         <members>Heat_Map_Mock</members>
         <members>House_Explorer</members>
@@ -1652,6 +1654,7 @@
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
         <members>Favorite__c-Favorite Layout</members>
+        <members>Fruit__c-Fruit Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Individual-Individual Layout</members>
@@ -1764,6 +1767,7 @@
         <members>DigitalWallet.DigitalWallet</members>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <members>Favorite__c.All</members>
+        <members>Fruit__c.All</members>
         <members>Invoice.mine</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
