@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>47.0</version>
     <types>
+        <members>Addtest</members>
         <members>BotController</members>
         <members>BotField</members>
         <members>BotHandler</members>
