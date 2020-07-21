@@ -4,7 +4,7 @@ public class Addtest
  void testadd()
 {
  integer a=5; 
- integer b=10;
+ integer b=1;
  integer c;
 
     
