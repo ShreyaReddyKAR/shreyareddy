@@ -1454,6 +1454,7 @@
         <members>Individual</members>
         <members>Invoice</members>
         <members>InvoiceLine</members>
+        <members>Jul21st__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
@@ -1662,6 +1663,7 @@
         <members>Individual-Individual Layout</members>
         <members>Invoice-Invoice Layout</members>
         <members>InvoiceLine-Invoice Line Layout</members>
+        <members>Jul21st__c-Jul21st Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
