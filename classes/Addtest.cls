@@ -3,7 +3,7 @@ public class Addtest
 {
  void testadd()
 {
- integer a=5; 
+ integer a=9; 
  integer b=11;
  integer c;
 
