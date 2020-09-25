@@ -1,14 +1,14 @@
-//adding comment on 21st Sept
+//adding comment on 25th Sept
 public class Addtest
 {
  void testadd()
 {
- integer a=10; 
- integer b=2;
+ integer a=12; 
+ integer b=31;
  integer c;
 
     
     
-    system.debug('the result is'+c);
+    system.debug('the result'+c);
 }
 }
