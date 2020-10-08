@@ -96,6 +96,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>Addtest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>BotController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -1516,6 +1520,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>DemoObj__c.NumberCount__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>DemoObj__c.oct_8__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
