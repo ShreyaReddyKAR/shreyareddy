@@ -3,8 +3,8 @@ public class Addtest
 {
  void testadd()
 {
- integer a=10; 
- integer b=21;
+ integer a=8; 
+ integer b=20;
  integer c;
 
     
