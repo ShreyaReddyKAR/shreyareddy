@@ -1519,6 +1519,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DemoObj__c.Nov_2nd__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>DemoObj__c.NumbOfFields__c</field>
         <readable>true</readable>
     </fieldPermissions>
