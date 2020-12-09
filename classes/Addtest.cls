@@ -1,10 +1,10 @@
-//adding comment on Dec 9th
+//adding comment on Dec 9th-demo 
 public class Addtest
 {
- void calc()
+ void add()
 {
- integer a=8; 
- integer b=2;
+ integer a=10; 
+ integer b=9;
  integer c;
 
     
