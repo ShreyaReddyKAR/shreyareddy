@@ -840,6 +840,7 @@
         <members>InvoiceLine.TotalAmountWithTax</members>
         <members>InvoiceLine.Type</members>
         <members>InvoiceLine.UnitPrice</members>
+        <members>Jan_6_Demo_object__c.Test_Field__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -1454,6 +1455,7 @@
         <members>Individual</members>
         <members>Invoice</members>
         <members>InvoiceLine</members>
+        <members>Jan_6_Demo_object__c</members>
         <members>Jul21st__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
@@ -1545,6 +1547,7 @@
         <members>Heat_Map</members>
         <members>Heat_Map_Mock</members>
         <members>House_Explorer</members>
+        <members>Jan_6_Demo_object__c</members>
         <members>Property_Explorer1</members>
         <members>Property__c</members>
         <members>Sample_Data_Import</members>
@@ -1663,6 +1666,7 @@
         <members>Individual-Individual Layout</members>
         <members>Invoice-Invoice Layout</members>
         <members>InvoiceLine-Invoice Line Layout</members>
+        <members>Jan_6_Demo_object__c-Jan 6 Demo object Layout</members>
         <members>Jul21st__c-Jul21st Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
@@ -1773,6 +1777,7 @@
         <members>Favorite__c.All</members>
         <members>Fruit__c.All</members>
         <members>Invoice.mine</members>
+        <members>Jan_6_Demo_object__c.All</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
         <members>Lead.TodaysLeads</members>
@@ -1865,6 +1870,7 @@
         <members>HighVolumePortal</members>
         <members>Identity User</members>
         <members>MarketingProfile</members>
+        <members>Minimum Access - Salesforce</members>
         <members>Partner App Subscription User</members>
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>
@@ -1873,6 +1879,7 @@
         <members>Silver Partner User</members>
         <members>SolutionManager</members>
         <members>Standard</members>
+        <members>Standard User 2</members>
         <members>StandardAul</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
