@@ -331,6 +331,14 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Jan_6_field__c</fullName>
+        <externalId>false</externalId>
+        <label>Jan 6 field</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>Jigsaw</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
