@@ -16,6 +16,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.testingAField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Jan_6_Demo_object__c.PhoneUSA__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Jan_6_Demo_object__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>

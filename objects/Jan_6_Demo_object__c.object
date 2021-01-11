@@ -154,6 +154,14 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>PhoneUSA__c</fullName>
+        <externalId>false</externalId>
+        <label>PhoneUSA</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>Test_Field__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
