@@ -1,12 +1,12 @@
-//adding comment on Jan 27th
+//adding comment on Jan 27th--demo for UK Export finance
 
 
-public class Addtest //adding a comment
+public class Addtest
 {
  void add()
 {
- integer a=6; 
- integer b=4;
+ integer a=12; 
+ integer b=9;
  integer c;
 
     
