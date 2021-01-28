@@ -1,11 +1,10 @@
-//adding comment on Jan 27th--demo for UK Export finance
-
+//adding comment on Jan 27th--
 
 public class Addtest
 {
  void add()
 {
- integer a=12; 
+ integer a=21; 
  integer b=9;
  integer c;
 
