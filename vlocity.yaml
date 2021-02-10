@@ -2,6 +2,7 @@ projectPath: ./autorabit_alldefault_vlocity_build
 manifest:
 - OmniScript/Quote_LargeGroup_English
 - OmniScript/ApplicantTest_Commit_English
+- OmniScript/Demo_Feb_English
 maxDepth: 1
 autoUpdateSettings: true
 separateMatrixVersions: false
