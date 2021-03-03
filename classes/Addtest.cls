@@ -1,15 +1,15 @@
-//adding comment on Feb 8th
+//adding comment on 3rd March
 
 public class Addtest
 {
  void add()
 {
- integer a=11; 
- integer b=23;
+ integer a=10; 
+ integer b=20;
  integer c;
 
     
     
-    system.debug('the result is'+c);
+    system.debug('the final result is'+c);
 }
 }
