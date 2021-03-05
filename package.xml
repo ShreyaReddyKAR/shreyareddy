@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>47.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>51.0</version>
     <types>
+        <members>Addtest</members>
         <members>BotController</members>
         <members>BotField</members>
         <members>BotHandler</members>
@@ -23,6 +23,7 @@
         <members>CommunitiesSelfRegConfirmControllerTest</members>
         <members>CommunitiesSelfRegController</members>
         <members>CommunitiesSelfRegControllerTest</members>
+        <members>CreateAcc</members>
         <members>DreamHouseSampleDataController</members>
         <members>EinsteinVisionController</members>
         <members>EinsteinVisionControllerTest</members>
@@ -389,6 +390,7 @@
         <members>Account.TickerSymbol</members>
         <members>Account.Type</members>
         <members>Account.Website</members>
+        <members>Account.march_3rd__c</members>
         <members>Account.vlocity_ins__Active__c</members>
         <members>Account.vlocity_ins__AgencyBrokerageNumber__c</members>
         <members>Account.vlocity_ins__CalculatedAddress__c</members>
@@ -3722,6 +3724,14 @@
         <members>Total Health Provider Community.Replace_banned</members>
         <members>Total Health Provider Community.Review_the_first_post</members>
         <name>ModerationRule</name>
+    </types>
+    <types>
+        <members>Default_Navigation</members>
+        <members>Default_Navigation1</members>
+        <members>Default_Navigation2</members>
+        <members>Default_Navigation3</members>
+        <members>TileMenu</members>
+        <name>NavigationMenu</name>
     </types>
     <types>
         <members>Help Center</members>
