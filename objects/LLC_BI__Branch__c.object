@@ -8,4 +8,12 @@
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
+    <fields>
+        <fullName>field2__c</fullName>
+        <externalId>false</externalId>
+        <label>field2</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
 </CustomObject>

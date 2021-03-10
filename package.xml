@@ -844,6 +844,7 @@
         <members>Jan_6_Demo_object__c.PhoneUSA__c</members>
         <members>Jan_6_Demo_object__c.Test_Field__c</members>
         <members>LLC_BI__Branch__c.field1__c</members>
+        <members>LLC_BI__Branch__c.field2__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
