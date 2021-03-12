@@ -1,0 +1,16 @@
+{
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": false,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__Language__c": "English",
+    "%vlocity_namespace%__LwcId__c": "166753e1-8f39-03d0-b54a-a6a85167ed0c",
+    "%vlocity_namespace%__PropertySet__c": "Mar_12th_English_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "12th",
+    "%vlocity_namespace%__Type__c": "Mar",
+    "Name": "New OmniScript1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Mar/12th/English"
+}
