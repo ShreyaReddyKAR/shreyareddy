@@ -346,7 +346,7 @@
         <fullName>March18Demo__c</fullName>
         <externalId>false</externalId>
         <label>March18Demo</label>
-        <length>30</length>
+        <length>20</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
