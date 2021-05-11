@@ -372,6 +372,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>May11th__c</fullName>
+        <externalId>false</externalId>
+        <label>May11th</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NaicsCode</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
