@@ -1,11 +1,11 @@
-//adding comment on 26th May
+//adding comment on jun 1st
 
 public class Addtest
 {
  void add()
 {
- integer a=2; 
- integer b=9;
+ integer a=12; 
+ integer b=4;
  integer c;
 
     

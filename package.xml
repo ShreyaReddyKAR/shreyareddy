@@ -175,6 +175,7 @@
         <members>Account.AnnualRevenue</members>
         <members>Account.BillingAddress</members>
         <members>Account.Check__c</members>
+        <members>Account.Checkbox1__c</members>
         <members>Account.CleanStatus</members>
         <members>Account.CountAcc__c</members>
         <members>Account.CustomerPriority__c</members>
