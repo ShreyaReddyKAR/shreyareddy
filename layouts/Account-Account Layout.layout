@@ -103,6 +103,10 @@
                 <behavior>Edit</behavior>
                 <field>May11th__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Checkbox1__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
