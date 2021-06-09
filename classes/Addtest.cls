@@ -1,15 +1,15 @@
-//adding comment on jun 8th
+//adding comment on jun 9th
 
 public class Addtest
 {
- void add()
+ void sum()
 {
- integer a=1; 
- integer b=5;
- integer c;
+ integer x=1; 
+ integer y=5;
+ integer z;
 
     
     
-    system.debug('the final sum result is'+c);
+    system.debug('the final sum result is'+z);
 }
 }
