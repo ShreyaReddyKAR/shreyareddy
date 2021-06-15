@@ -1,4 +1,5 @@
-//adding comment on jun 9th
+//merge conflict testing
+//adding line 2
 
 public class Addtest
 {
@@ -7,9 +8,7 @@ public class Addtest
  integer x=1; 
  integer y=5;
  integer z;
-
-    
-    
-    system.debug('the final sum result is'+z);
+ 
+ system.debug('the final sum result is'+z);
 }
 }
