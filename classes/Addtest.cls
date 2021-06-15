@@ -1,15 +1,14 @@
-//adding comment on jun 1st
+//merge conflict testing
+//adding line 2
 
 public class Addtest
 {
- void add()
+ void sum()
 {
- integer a=12; 
- integer b=4;
- integer c;
-
-    
-    
-    system.debug('the final sum result is'+c);
+ integer x=1; 
+ integer y=5;
+ integer z;
+ 
+ system.debug('the final sum result is'+z);
 }
 }
