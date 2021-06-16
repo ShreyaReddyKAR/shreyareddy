@@ -1,5 +1,4 @@
-//merge conflict testing
-//adding line 2
+//adding comment on Jun 15th
 
 public class Addtest
 {
